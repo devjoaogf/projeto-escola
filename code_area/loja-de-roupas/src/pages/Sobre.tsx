@@ -28,7 +28,7 @@ export default function Sobre(){
                         </div>
                     </div>
                     <div className="flex flex-col lg:w-1/2">
-                        <img className="border-8 border-imagem-500" src={Fundo.src} alt="Vestido Ladie"/>
+                        <Image className="border-8 border-imagem-500" src={Fundo.src} alt="Vestido Ladie"/>
                     </div>
                 </div>
             </div>
