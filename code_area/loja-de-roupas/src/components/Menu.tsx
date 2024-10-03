@@ -40,7 +40,7 @@ export default function Menu() {
         <div className="w-full h-20 bg-white shadow-md">
 
             <div className="px-10 w-full h-full m-auto flex justify-between items-center lg:px-40">
-                <Image className="w-20" src={Logo.src} alt="" />
+                <img className="w-20" src={Logo.src} alt="" />
 
                 <div className=" hidden lg:flex items-center gap-4" >
 
