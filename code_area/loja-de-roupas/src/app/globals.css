@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background-color: #ffffff;
+}
+
+
+/*Degradê da pagina inicial*/
+.bg-gradient{
+  
+  background: rgb(214,97,119);
+  
+  background: linear-gradient(90deg, rgba(214,97,119,1) 0%, rgba(224,117,117,1) 100%);
+  
+  /*Site pra escolher o degradê: css gradient*/
+  
+  
+}
+
+/*Alterar a cor do texto verde limão da página sobre por aqui*/
+.texto-sobre{
+  color:#ffe600;
+}
+
+/*Altera a cor da borda da imagem de sobre*/
+.border-imagem-500{
+  border-color: #ffe600;
+}
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
