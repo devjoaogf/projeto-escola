@@ -22,7 +22,7 @@ export default function SecondButton ({text, icon,type='button',onclick}:TextBut
     <button 
     type={type}
     onClick={onclick}
-    className="border-2 border-black text-black bg-transparent px-5 py-2 rounded-full flex justify-center hover:bg-black hover:text-white transition ease-in-out duration-150"
+    className="border-2 border-black text-black bg-transparent px-5 py-2 rounded-full flex justify-center hover:bg-gray-600 hover:text-white transition ease-in-out duration-150"
 
         
     >
