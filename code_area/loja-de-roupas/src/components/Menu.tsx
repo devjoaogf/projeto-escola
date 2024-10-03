@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 //Criei esse tsx porque irei exibir o menu sempre e assim consigo ter mais facilidade e reaproveitamento de código
 
 //use cliente para rodar localmente os arquivos ao inves do servidor porque está dando erro
