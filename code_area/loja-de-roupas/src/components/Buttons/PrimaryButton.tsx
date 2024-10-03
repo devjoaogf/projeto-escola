@@ -22,7 +22,7 @@ export default function PrimaryButton ({text, icon,type='button',onclick}:TextBu
     <button 
     type={type}
     onClick={onclick}
-    className="bg-black text-white px-5 py-2 rounded-full flex justify-center hover:bg-gray-500 transition ease-in-out duration-150"
+    className="bg-black border-2 border-black text-white px-5 py-2 rounded-full flex justify-center hover:bg-gray-600 hover:text-black  transition ease-in-out duration-150"
         
 
 
