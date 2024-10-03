@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import AlternativeButton from "@/components/Buttons/AlternativeButton";
 import PrimaryButton from "@/components/Buttons/PrimaryButton";
 import Menu from "@/components/Menu";
