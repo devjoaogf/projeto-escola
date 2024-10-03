@@ -5,7 +5,7 @@ import { ReactElement } from "react";
 
 //Props do botão, define as propiedades; Props servem para reutilizarmos o mesmo botao só que com funções diferentes
 type TextButton = {
-    text?:String;
+    text?:string;
     icon?:ReactElement;
     type?:'button' | 'submit' | 'reset';
     onclick?:()=> void;
