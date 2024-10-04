@@ -1,4 +1,5 @@
-import Sobre from "@/pages/Sobre";
+
+//import Sobre from "@/pages/Sobre";
 import Produtos from "@/pages/Produtos";
 
 
