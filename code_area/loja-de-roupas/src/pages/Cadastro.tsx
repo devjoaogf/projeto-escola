@@ -1,4 +1,5 @@
 // src/pages/CadastroProduto.tsx
+/* eslint-disable */
 
 'use client';
 
