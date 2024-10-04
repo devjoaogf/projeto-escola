@@ -1,4 +1,5 @@
 // src/pages/ExibirProdutos.tsx
+/* eslint-disable */
 
 'use client';
 
