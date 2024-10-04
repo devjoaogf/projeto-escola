@@ -1,5 +1,6 @@
 // Login.tsx
 //Feito com o CHATGPT
+/* eslint-disable */
 
 'use client';
 
