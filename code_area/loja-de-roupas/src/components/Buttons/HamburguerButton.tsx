@@ -5,7 +5,7 @@ type Props ={
 }
 export default function HamburguerButton({onClick}:Props){
     return(
-        <span onClick={onClick} className='text-violet-500 cursor-pointer lg:hidden'>
+        <span onClick={onClick} className='text-black-500 cursor-pointer lg:hidden'>
             <MenuRoundedIcon/>
         </span>
     );
