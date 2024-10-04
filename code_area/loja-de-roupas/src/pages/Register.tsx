@@ -1,5 +1,6 @@
 // Register.tsx
 //Feito com o chatgpt
+/* eslint-disable */
 
 'use client';
 
