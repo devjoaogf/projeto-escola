@@ -5,7 +5,7 @@ import { ReactElement } from "react";
 
 //Props do botão, define as propiedades; Props servem para reutilizarmos o mesmo botao só que com funções diferentes
 type TextButton = {
-    text?:string;
+    text?:String;
     icon?:ReactElement;
     type?:'button' | 'submit' | 'reset';
     onclick?:()=> void;
@@ -22,7 +22,7 @@ export default function PrimaryButton ({text, icon,type='button',onclick}:TextBu
     <button 
     type={type}
     onClick={onclick}
-    className="bg-black border-2 border-black text-white px-5 py-2 rounded-full flex justify-center hover:bg-gray-600 hover:text-black  transition ease-in-out duration-150"
+    className="bg-pink-600 border-2 border-pink-500 text-pink-100 px-5 py-2 rounded-full flex justify-center hover:bg-pink-700 hover:text-black  transition ease-in-out duration-150 hover:scale-110"
         
 
 
