@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 //Use client pra rodar localmente o que ele não conseguir rodar no navegador e carregar a página
 'use client'
 
