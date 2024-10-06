@@ -11,7 +11,7 @@ import PrimaryButton from "@/components/Buttons/PrimaryButton";
 
 import AccountCircleOutlinedIcon from '@mui/icons-material/AccountCircleOutlined';
 
-import Logo from "@/assets/IMG-20240918-WA0045.jpg";
+import Logo from "@/assets/logo.png";
 import SecondButton from "./Buttons/SecondButton";
 
 import ControlPointOutlinedIcon from '@mui/icons-material/ControlPointOutlined';
