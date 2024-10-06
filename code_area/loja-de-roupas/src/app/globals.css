@@ -20,25 +20,26 @@ body {
 
 
 /*Degradê da pagina inicial*/
-.bg-gradient{
-  
-   background: rgb(214,97,119);
-  
-  background: linear-gradient(0deg, rgba(214,97,119,1) 0%, rgba(126,33,33,1) 100%);
+.bg-gradient {
+
+  background: rgb(255,2,164);
+  background: linear-gradient(0deg, rgba(255,2,164,1) 0%, rgba(156,0,92,1) 100%);  
   /*Site pra escolher o degradê: css gradient*/
-  
-  
+
+
 }
 
 /*Alterar a cor do texto verde limão da página sobre por aqui*/
-.texto-sobre{
-  color:#ffe600;
+.texto-sobre {
+  color: rgba(255, 178, 208, 0.856);
 }
 
+
 /*Altera a cor da borda da imagem de sobre*/
-.border-imagem-500{
-  border-color: #ffe600;
+.border-imagem-500 {
+  border-color: rgb(236 72 153);
 }
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
